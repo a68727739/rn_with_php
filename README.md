@@ -8,4 +8,6 @@
     根目錄下 backend 資料夾下的 tr_reactnative 為PHP代碼
     資料庫檔為 tr_reactnative.sql
     資料庫帳密設定 connections.php
+    
+    ![image](https://github.com/a68727739/rn_with_php/blob/master/demo01.gif)
   
